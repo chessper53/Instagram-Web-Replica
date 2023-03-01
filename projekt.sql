@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `Username`, `Password`) VALUES
-(1, 'lahmichine', 'nigger1');
+(1, 'lahmichine', 'guido1234');
 
 -- --------------------------------------------------------
 
