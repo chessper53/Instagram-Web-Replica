@@ -110,11 +110,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`NachName`, `Vorname`) VALUES
-('Damjan Ziconigger', 'Niggerwigger'),
-('Damjan Ziconigger', 'Niggerwigger'),
-('Damjan Ziconigger', 'Niggerwigger'),
-('Damjan Ziconigger', 'Niggerwigger'),
-('Damjan Ziconigger', 'Niggerwigger');
+('Max Mustermann', '12345'),
+('guido Zurgbrugg', 'guido123');
 
 --
 -- Indexes for dumped tables
